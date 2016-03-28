@@ -1,0 +1,11 @@
+﻿{
+  "frameworks": {
+    "net45": { }
+  },
+  "dependencies": {
+    "PInvoke.MSCorEE": "0.2.8"
+  },
+  "runtimes": {
+    "win": { }
+  }
+}
